@@ -73,8 +73,8 @@ También me interesa la Inteligencia Artificial aplicada a la educación, el Des
 ## 📌 Proyectos Destacados
 
 ### 🌐 Aplicaciones Web & Full-Stack
-| Proyecto | Descripción | Stack Tecnológico |
-| :--- | :--- | :--- |
+| Proyecto | Descripción | Stack Tecnológico | Demo Activo |
+|----------|-------------|-------------------|-------------|
 | **QualityTrack** | Sistema de rastreo industrial automatizado para control y seguimiento de órdenes de trabajo. | `Flask`, `React`, `Vite`, `MySQL`, `Gunicorn` |
 | **GymPulse Manager** | Sistema de gestión integral para gimnasios modelado en 3FN con 12 tablas, triggers y procedimientos almacenados. | `Flask`, `MySQL` |
 | **Proyecto02-ChoqueGeneracional** | Sitio web interactivo que explora la evolución de los juegos entre generaciones en Guayaquil a partir de entrevistas recopiladas. | `SCSS`, `CSS3`, `HTML5`, `JavaScript` | [Demo Activa](https://tu-usuario.github.io/Proyecto02-ChoqueGeneracional/) |
