@@ -79,7 +79,7 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=RomeroAbraham&theme=dracula" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeroAbraham&layout=donut&theme=dracula" width="48%" alt="Lenguajes Más Usados" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=RomeroAbraham&layout=donut&theme=dracula" width="48%" alt="Lenguajes Más Usados" />
 </p>
 
 ---
