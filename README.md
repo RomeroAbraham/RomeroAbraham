@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=180&section=header&text=Abraham%20Romero&fontSize=42&fontColor=f8f8f2&animation=fadeIn" width="100%" alt="Header Banner" />
+  <img src="https://raw.githubusercontent.com/andreasbm/readme-badges/master/assets/banners/header.png" width="100%" alt="Header Banner" />
 </p>
 
 ---
