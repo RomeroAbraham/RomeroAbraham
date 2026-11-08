@@ -75,9 +75,12 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 | **EcoTrack & Estratega Lógico** | Aplicaciones en JavaFX con estructuras complejas (grafos, listas circulares, árboles de decisión). | `JavaFX`, `Estructuras de Datos` |
 
 ---
+## Mis Estadísticas de GitHub
 
-[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=abrsromer&show_icons=true&theme=radial)](https://github.com/abrsromer)
-[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=abrsromer&layout=compact&theme=radial)](https://github.com/abrsromer)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abrsromer&show_icons=true&theme=dracula" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrsromer&layout=donut&theme=dracula" width="48%" alt="Lenguajes Más Usados" />
+</p>
 
 ---
 
