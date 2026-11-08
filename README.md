@@ -9,7 +9,7 @@
 
 ## Sobre mí
 
-Mi nombre es **Abraham Smith Romero Rondón** y soy estudiante de Ingeniería en Ciencias de la Computación en la **Escuela Superior Politécnica del Litoral (ESPOL)**. Me apasiona el desarrollo de software full-stack, la programación de sistemas a bajo nivel, la inteligencia artificial aplicada y la creación de soluciones tecnológicas con impacto social.
+Mi nombre es Abraham Smith Romero Rondón y soy estudiante de Ingeniería en Ciencias de la Computación en la Escuela Superior Politécnica del Litoral (ESPOL). Me apasiona el desarrollo de software full-stack, la programación de sistemas a bajo nivel, la inteligencia artificial aplicada y la creación de soluciones tecnológicas con impacto social.
 
 Disfruto investigar, modelar arquitecturas robustas y construir proyectos que van desde sistemas industriales y robótica embebida hasta plataformas educativas y desarrollo de videojuegos.
 
@@ -17,7 +17,7 @@ Disfruto investigar, modelar arquitecturas robustas y construir proyectos que va
 
 ## Áreas de Interés
 
-Me enfoco en el **Desarrollo Full-Stack & Sistemas**, explorando desde la optimización de bases de datos relacionales y APIs RESTful hasta la programación en ensamblador MIPS y control de hardware embebido.
+Me enfoco en el Desarrollo Full-Stack & Sistemas, explorando desde la optimización de bases de datos relacionales y APIs RESTful hasta la programación en ensamblador MIPS y control de hardware embebido.
 
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/FLASK-000000?style=for-the-badge&logo=flask&logoColor=white)
@@ -26,7 +26,7 @@ Me enfoco en el **Desarrollo Full-Stack & Sistemas**, explorando desde la optimi
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![C](https://img.shields.io/badge/LENGUAJE%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
 
-También me interesa la **Inteligencia Artificial aplicada a la educación**, el **Desarrollo de Videojuegos** (lógica de eventos, scripting y motores 2D) y la **Ingeniería de Software Social** para fundaciones y comunidades.
+También me interesa la Inteligencia Artificial aplicada a la educación, el Desarrollo de Videojuegos (lógica de eventos, scripting y motores 2D) y la Ingeniería de Software Social para fundaciones y comunidades.
 
 ---
 
@@ -61,12 +61,12 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 
 | Tecnología / Herramienta | Conceptos Aprendidos en DAWM | Aplicación Práctica en Proyectos de la Materia |
 | :--- | :--- | :--- |
-| **HTML5 Semántico** | Maquetación web accesible, etiquetas de estructura y organización del DOM. | Utilizado en **Proyecto 02 (Choque Generacional)** para estructurar las secciones de entrevistas e historias, y en el **Proyecto 01 (Portafolio)**. |
-| **SCSS / CSS3** | Preprocesadores CSS, variables de estilo, anidamiento y diagramación responsiva (*Flexbox & Grid*). | Aplicado en **Proyecto 02 (Choque Generacional)** usando **SCSS** para mantener una hoja de estilos modular, y en el **Proyecto 03 (Dashboard)** con *CSS Grid*. |
-| **JavaScript (ES6+)** | Manipulación dinámica del DOM, interactividad, eventos y consumo de datos. | Implementado en **Proyecto 02** para el control de galerías e interactividad, y en **Proyecto 03** para la filtración interactiva de pedidos en tiempo real. |
-| **TypeScript** | Tipado estático robusto, interfaces y manejo de estructuras de datos complejas. | Aplicado en **Proyecto 03 (Dashboard)** para modelar la interfaz `Order` sobre los 50.000 registros de entregas de comida. |
-| **Figma** | Prototipado visual UI/UX, diseño de wireframes y jerarquía de componentes. | Utilizado para diseñar los prototipos interactivos del **Proyecto 03 (Dashboard)** y el prototipo visual del **Proyecto 02**. |
-| **Git & GitHub Pages** | Control de versiones incremental y despliegue continuo de sitios estáticos. | Empleado para publicar las demos activas en **GitHub Pages** de **Choque Generacional** y el **Portafolio de Identidad Digital**. |
+| **HTML5 Semántico** | Maquetación web accesible, etiquetas de estructura y organización del DOM. | Utilizado en Proyecto 02 (Choque Generacional) para estructurar las secciones de entrevistas e historias, y en el Proyecto 01 (Portafolio). |
+| **SCSS / CSS3** | Preprocesadores CSS, variables de estilo, anidamiento y diagramación responsiva (*Flexbox & Grid*). | Aplicado en Proyecto 02 (Choque Generacional) usando **SCSS** para mantener una hoja de estilos modular, y en el Proyecto 03 (Dashboard) con *CSS Grid*. |
+| **JavaScript (ES6+)** | Manipulación dinámica del DOM, interactividad, eventos y consumo de datos. | Implementado en Proyecto 02 para el control de galerías e interactividad, y en Proyecto 03 para la filtración interactiva de pedidos en tiempo real. |
+| **TypeScript** | Tipado estático robusto, interfaces y manejo de estructuras de datos complejas. | Aplicado en Proyecto 03 (Dashboard) para modelar la interfaz `Order` sobre los 50.000 registros de entregas de comida. |
+| **Figma** | Prototipado visual UI/UX, diseño de wireframes y jerarquía de componentes. | Utilizado para diseñar los prototipos interactivos del Proyecto 03 (Dashboard) y el prototipo visual del Proyecto 02. |
+| **Git & GitHub Pages** | Control de versiones incremental y despliegue continuo de sitios estáticos. | Empleado para publicar las demos activas en GitHub Pages de Choque Generacional y el Portafolio de Identidad Digital. |
 
 ---
 
