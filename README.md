@@ -57,6 +57,19 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 
 ---
 
+## 🛠️ Tecnologías del Curso & Aplicación en Proyectos
+
+| Tecnología / Herramienta | Conceptos Aprendidos en DAWM | Aplicación Práctica en Proyectos de la Materia |
+| :--- | :--- | :--- |
+| **HTML5 Semántico** | Maquetación web accesible, etiquetas de estructura y organización del DOM. | Utilizado en **Proyecto 02 (Choque Generacional)** para estructurar las secciones de entrevistas e historias, y en el **Proyecto 01 (Portafolio)**. |
+| **SCSS / CSS3** | Preprocesadores CSS, variables de estilo, anidamiento y diagramación responsiva (*Flexbox & Grid*). | Aplicado en **Proyecto 02 (Choque Generacional)** usando **SCSS** para mantener una hoja de estilos modular, y en el **Proyecto 03 (Dashboard)** con *CSS Grid*. |
+| **JavaScript (ES6+)** | Manipulación dinámica del DOM, interactividad, eventos y consumo de datos. | Implementado en **Proyecto 02** para el control de galerías e interactividad, y en **Proyecto 03** para la filtración interactiva de pedidos en tiempo real. |
+| **TypeScript** | Tipado estático robusto, interfaces y manejo de estructuras de datos complejas. | Aplicado en **Proyecto 03 (Dashboard)** para modelar la interfaz `Order` sobre los 50.000 registros de entregas de comida. |
+| **Figma** | Prototipado visual UI/UX, diseño de wireframes y jerarquía de componentes. | Utilizado para diseñar los prototipos interactivos del **Proyecto 03 (Dashboard)** y el prototipo visual del **Proyecto 02**. |
+| **Git & GitHub Pages** | Control de versiones incremental y despliegue continuo de sitios estáticos. | Empleado para publicar las demos activas en **GitHub Pages** de **Choque Generacional** y el **Portafolio de Identidad Digital**. |
+
+---
+
 ## 📌 Proyectos Destacados
 
 ### 🌐 Aplicaciones Web & Full-Stack
@@ -64,6 +77,7 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 | :--- | :--- | :--- |
 | **QualityTrack** | Sistema de rastreo industrial automatizado para control y seguimiento de órdenes de trabajo. | `Flask`, `React`, `Vite`, `MySQL`, `Gunicorn` |
 | **GymPulse Manager** | Sistema de gestión integral para gimnasios modelado en 3FN con 12 tablas, triggers y procedimientos almacenados. | `Flask`, `MySQL` |
+| **Proyecto02-ChoqueGeneracional** | Sitio web interactivo que explora la evolución de los juegos entre generaciones en Guayaquil a partir de entrevistas recopiladas. | `SCSS`, `CSS3`, `HTML5`, `JavaScript` | [Demo Activa](https://tu-usuario.github.io/Proyecto02-ChoqueGeneracional/) |
 
 ### IA, Robótica & Embebidos
 | Proyecto | Descripción | Stack Tecnológico |
