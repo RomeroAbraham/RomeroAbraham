@@ -95,7 +95,9 @@ También me interesa la Inteligencia Artificial aplicada a la educación, el Des
 | **MadRun** | Videojuego 2D de plataformas con mecánicas personalizadas y power-ups. | `Godot Engine` |
 | **Huellas de Continuidad** | Proyecto social en Cascales con Open Badges para mitigación de rotación de voluntarios. | `Open Badges`, `EdTech Protocols` |
 | **EcoTrack & Estratega Lógico** | Aplicaciones en JavaFX con estructuras complejas (grafos, listas circulares, árboles de decisión). | `JavaFX`, `Estructuras de Datos` |
+
 ---
+
 ## Mis Estadísticas de GitHub
 
 <p align="center">
