@@ -76,12 +76,8 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 
 ---
 
-##  Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abrsromer&show_icons=true&theme=radial" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrsromer&layout=compact&theme=radial" width="48%" />
-</p>
+[![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=abrsromer&show_icons=true&theme=radial)](https://github.com/abrsromer)
+[![Lenguajes Más Usados](https://github-readme-stats.vercel.app/api/top-langs/?username=abrsromer&layout=compact&theme=radial)](https://github.com/abrsromer)
 
 ---
 
