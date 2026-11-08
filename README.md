@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=dracula&height=180&section=header&text=Abraham%20Romero&fontSize=42&fontColor=f8f8f2&animation=fadeIn" width="100%" alt="Header Banner" />
+</p>
+
+---
 # Hi there! Soy Abraham Romero 👋
 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxdmhqZnR2bzB3NnN4eWN4OGE5cjN0YmxzcWQzaDRiZnlpdmsxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4V91NTCH/giphy.gif" width="180" alt="Coding GIF">
