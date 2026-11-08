@@ -78,14 +78,14 @@ También me interesa la **Inteligencia Artificial aplicada a la educación**, el
 ## Mis Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abrsromer&theme=dracula" width="48%" alt="Estadísticas de GitHub" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abrsromer&layout=donut&theme=dracula" width="48%" alt="Lenguajes Más Usados" />
+  <img src="https://streak-stats.demolab.com/?user=RomeroAbraham&theme=dracula" width="48%" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RomeroAbraham&layout=donut&theme=dracula" width="48%" alt="Lenguajes Más Usados" />
 </p>
 
 ---
 
 ## Contacto
-- **Email Institucional:** `abrsromer@espol.edu.ec`
-- **Email Personal:** `abrahamsmithromero@gmail.com`
+- **Email Institucional:** `abrarome@espol.edu.ec`
+- **Email Personal:** `abraham.romero.rondon.15@gmail.com`
 - **Universidad:** Escuela Superior Politécnica del Litoral (ESPOL - Guayaquil, Ecuador)
 - **LinkedIn:** [Abraham Romero](https://linkedin.com)
