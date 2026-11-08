@@ -72,7 +72,7 @@ También me interesa la Inteligencia Artificial aplicada a la educación, el Des
 
 ## 📌 Proyectos Destacados
 
-### 🌐 Aplicaciones Web & Full-Stack
+### Aplicaciones Web & Full-Stack
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
 | **QualityTrack** | Sistema de rastreo industrial automatizado para control y seguimiento de órdenes de trabajo. | `Flask`, `React`, `Vite`, `MySQL`, `Gunicorn` |
@@ -85,7 +85,7 @@ También me interesa la Inteligencia Artificial aplicada a la educación, el Des
 | **SatorIA** | Simulador socrático para preparación de defensas de tesis y mitigación de dependencia en IA generativa. | `AI Prompts`, `User Centered Arch` |
 | **Robot Seguidor de Línea PID** | Robot de alta velocidad con control PID de precisión para optimización de trazado. | `ESP32`, `TB6612FNG`, `TCRT5000 / QTR-5A` |
 
-### 🎮 Videojuegos & Emprendimiento Social
+### Videojuegos & Emprendimiento Social
 | Proyecto | Descripción | Stack Tecnológico |
 | :--- | :--- | :--- |
 | **The Last Memory** | RPG de rol narrativo centrado en sistemas de eventos y gestión de guardados. | `RPG Maker XP`, `RGSS Scripting` |
