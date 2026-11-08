@@ -5,7 +5,7 @@
 ---
 # Hi there! Soy Abraham Romero 👋
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHYxdmhqZnR2bzB3NnN4eWN4OGE5cjN0YmxzcWQzaDRiZnlpdmsxZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUGGAC3P4V91NTCH/giphy.gif" width="180" alt="Coding GIF">
+<img align="right" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="200" alt="Coding GIF">
 
 ## Sobre mí
 
